@@ -1,0 +1,1 @@
+# gerador-senha-2024
