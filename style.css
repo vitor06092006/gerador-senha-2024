@@ -1,7 +1,7 @@
 
 
 :root {
-    --branco:white;
+    --branco:rgb(129, 230, 255);
     --cor-de-fundo: #0a538f;
     --fundo-senha: #37e1ff;
     --fundo-texto:#97c8ff;
